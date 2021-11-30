@@ -160,7 +160,7 @@
         <!-- contributors -->
         <section class="contributor" id="contributors">
             <div class="row my-section-title my-event-title">
-                <h2 class="text-center">kdjsk</h2>
+                <h2 class="text-center">Contributors</h2>
             </div>
             <div class="row">
                 <div class="col-md-3 text-center">
